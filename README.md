@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8800FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=120&section=header"/>
 
 # Julio-Portfólio
 
@@ -25,4 +25,4 @@ Este portfólio foi construído com as seguintes tecnologias:
 
   [Acesse meu portfólio](https://jullyoo.github.io/Julio-Portf-lio/)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8800FF&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=120&section=footer"/>
