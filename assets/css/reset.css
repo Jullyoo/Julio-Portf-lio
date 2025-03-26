@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(180deg, #151925, #3e0294);
+    color:#FFFFFF;
+    width:100%;
+    text-align: left;
+}
+
